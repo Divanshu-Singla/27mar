@@ -1,1 +1,3 @@
 hello 2310990073 here
+
+doing practice in my scm class
